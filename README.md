@@ -58,6 +58,8 @@
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" />
+
 ### 💡 "Every expert was once a beginner."
 
 Thanks for visiting my profile! ⭐
